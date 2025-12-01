@@ -2,6 +2,7 @@
 Ce projet est une landing page moderne et responsive développée avec React, Vite et Tailwind CSS, inspirée des standards UI/UX professionnels.
 Il met en avant une interface fluide, des animations élégantes et une structure entièrement réutilisable basée sur des components modulaires.
 
+![image alt](https://github.com/Yelle-stack/bankApp/blob/2ffdfc9278008598a87704515529b1110fe0924b/homeBankApp.png)
 ## L’application présente plusieurs sections clés :
 Navbar : une navigation responsive avec menu mobile animé.
 
