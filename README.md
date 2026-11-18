@@ -1,41 +1,51 @@
-# 🧾 Description du Projet
-Ce projet est une landing page moderne et responsive développée avec React, Vite et Tailwind CSS, inspirée des standards UI/UX professionnels.
-Il met en avant une interface fluide, des animations élégantes et une structure entièrement réutilisable basée sur des components modulaires.
+# 💳 HooBank – Fintech Landing Page
 
-![image alt](https://github.com/Yelle-stack/bankApp/blob/2ffdfc9278008598a87704515529b1110fe0924b/homeBankApp.png)
-## L’application présente plusieurs sections clés :
-Navbar : une navigation responsive avec menu mobile animé.
+A modern, fully responsive landing page built with React, Vite and Tailwind CSS, inspired by professional UI/UX standards. It features a smooth interface, elegant gradients and a clean structure based on reusable, modular components.
 
-Hero Section : une section d’introduction moderne avec CTA “Get Started”, gradients dynamiques et visuel robot 3D.
+🔗 **Live demo: [https://yelle-stack.github.io/bankApp/](https://yelle-stack.github.io/bankApp/)**
 
-Stats : affichage des statistiques clés sous forme de blocs responsive.
+![Home page preview](homeBankApp.png)
 
-Business Section : présentation des fonctionnalités principales via des Feature Cards.
+## ✨ Sections
 
-Billing Section : mise en avant du service de gestion de facturation avec visuels et badges App Store / Google Play.
+- **Navbar**: responsive navigation with an animated mobile menu.
+- **Hero**: modern introduction with a "Get Started" call to action, dynamic gradients and a 3D robot visual.
+- **Stats**: key figures displayed in responsive blocks.
+- **Business**: main features presented as feature cards.
+- **Billing**: billing and invoicing service with App Store / Google Play badges.
+- **Card Deal**: card offers and comparisons with a call to action.
+- **Testimonials**: user feedback displayed in styled cards.
+- **Clients**: partner logos in a responsive grid.
+- **CTA**: a central block inviting visitors to try the service.
+- **Footer**: useful links, categories, social media and legal information.
 
-Card Deal Section : présentation d’offres et comparaisons de cartes bancaires avec CTA.
+## 🚀 Tech Stack
 
-Testimonials : avis utilisateurs affichés sous forme de feedback cards stylisées.
+- **React**: hooks and modular components
+- **Vite**: fast build tool
+- **Tailwind CSS**: centralized design system
+- **Custom CSS utilities**: gradients, animations, shadows
+- **Responsive design**: optimized for mobile and desktop
 
-Clients Section : logos des partenaires affichés en grille responsive.
+## 🛠️ Getting Started
 
-CTA (Call To Action) : un bloc central invitant à tester le service, avec bouton d’action et gradient d’arrière-plan.
+```bash
+git clone https://github.com/Yelle-stack/bankApp.git
+cd bankApp
+npm install
+npm run dev
+```
 
-Footer complet : liens utiles, catégories, réseaux sociaux et informations légales.
-Le design s’appuie sur des dégradés dynamiques, une typographie Poppins, et une organisation soignée via un fichier style.js pour conserver la cohérence visuelle.
+Then open `http://localhost:3000/` in your browser.
 
-## 🚀 Technologies utilisées
-React (hooks & components modulaires)
+## 🌐 Deployment
 
-Vite (build ultra rapide)
+The site is deployed on GitHub Pages:
 
-Tailwind CSS (design system centralisé)
+```bash
+npm run deploy
+```
 
-CSS utilities personnalisées (gradients, animations, shadows)
+## 🎯 Project Goal
 
-Responsive design optimisé mobile / desktop
-
-## 🎯 Objectif du projet
-Fournir une UI professionnelle prête à l’emploi, idéale pour une application fintech, SaaS ou service digital.
-Le code est pensé pour être facilement réutilisable, maintenable et adaptable à d’autres projets.
+To provide a professional, ready-to-use UI for a fintech, SaaS or digital service. The code is designed to be easy to reuse, maintain and adapt to other projects.
