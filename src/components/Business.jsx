@@ -23,7 +23,7 @@ const Business = () => {
    <section id="features" className={layout.section}>
      <div className={layout.sectionInfo}>
        <h2 className={styles.heading2}>You do the business, <br className="sm:block hidden"/> we'll handle the money.</h2>
-       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>The right credit card can strengthen your financial life by helping you build credit, earn rewards, and save money. But with so many cards on the market, finding the perfect one isn’t always easy..</p>
+       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>The right credit card can strengthen your financial life by helping you build credit, earn rewards, and save money.</p>
 
        <Button styles="mt-10"/>
      </div>
